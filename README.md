@@ -46,7 +46,7 @@ Este proyecto educativo demuestra el poder de las variables CSS para crear dise�
 Profundiza en Flexbox con el curso [Diseño Web Responsivo de FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## 🖼️ Demo del Proyecto
-[Ver horizonte ciudad](#)
+[Ver horizonte ciudad](https://informaticaempresarial-tic-docente.github.io/Horizonte-Ciudad/)
 
 ## 👨‍💻 Contacto del Desarrollador
 **Victoriano Domínguez Henríquez**  
